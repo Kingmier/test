@@ -9,4 +9,5 @@ void main()
 	}
 	printf("add .....\n");
 	printf("modify....\n");
+	printf("linux modfiy \n");
 }
